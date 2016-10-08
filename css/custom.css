@@ -1,3 +1,8 @@
 body{
   font-size: 14pt;
 }
+.a_icon{
+  text-align: center;
+  display: block;
+  height:220px;
+}
