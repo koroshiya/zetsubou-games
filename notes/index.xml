@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notes on Zetsubou&#39;s development blog</title>
-    <link>http://replace-this-with-your-hugo-site.com/notes/</link>
+    <link>http://zetsubou.games/notes/</link>
     <description>Recent content in Notes on Zetsubou&#39;s development blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 06 Sep 2016 22:15:19 +1000</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/notes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://zetsubou.games/notes/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>auto nandroid backup</title>
-      <link>http://replace-this-with-your-hugo-site.com/notes/auto-nandroid-backup/</link>
+      <link>http://zetsubou.games/notes/auto-nandroid-backup/</link>
       <pubDate>Tue, 06 Sep 2016 22:15:19 +1000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/notes/auto-nandroid-backup/</guid>
+      <guid>http://zetsubou.games/notes/auto-nandroid-backup/</guid>
       <description>&lt;p&gt;How to automate nandroid backups with TWRP and Tasker on a rooted Android device.&lt;/p&gt;
 
 &lt;p&gt;This guide assumes you have a rooted Android device with TWRP recovery flashed and Tasker installed.
