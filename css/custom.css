@@ -1,8 +1,52 @@
 body{
   font-size: 14pt;
+  background-color:#19181e;
 }
 .a_icon{
   text-align: center;
   display: block;
   height:220px;
+}
+.a_icon > img{
+  position: relative;
+  top: 50%;
+  transform: perspective(1px) translateY(-50%);
+}
+.nav-wrapper{
+	background-color:#263238;
+}
+.nav-wrapper > ul > li > a{
+	color:white;
+}
+#index-banner > div > div > h1{
+	color: #d93344 !important;
+}
+.page-footer{
+	background-color: #000 !important;
+}
+.card-panel{
+	background-color: #263238;
+	color: #FFF;
+}
+.card-panel > h4 > a, .card-panel > p > a{
+	color: #FFF;
+}
+.collection-item{
+	background-color: #263238 !important;
+	color: #FFF !important;
+}
+.collection-item:not(:last-child){
+	border-bottom: 1px solid #000 !important;
+}
+.collection-item:hover{
+	opacity:.6;
+}
+.collection{
+	border: 1px solid #000 !important;
+}
+.secondary-content{
+	color:white;
+}
+.tabs{
+	background-color: transparent;
 }
