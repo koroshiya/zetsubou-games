@@ -1,178 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zetsubou&#39;s development blog</title>
-    <link>http://replace-this-with-your-hugo-site.com/</link>
-    <description>Recent content on Zetsubou&#39;s development blog</description>
+    <title>Comgames on Zetsubou&#39;s development blog</title>
+    <link>http://replace-this-with-your-hugo-site.com/comgame/</link>
+    <description>Recent content in Comgames on Zetsubou&#39;s development blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Sep 2016 11:23:03 +1000</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Max Massacre</title>
-      <link>http://replace-this-with-your-hugo-site.com/mygame/max-massacre/</link>
-      <pubDate>Wed, 07 Sep 2016 11:23:03 +1000</pubDate>
-      
-      <guid>http://replace-this-with-your-hugo-site.com/mygame/max-massacre/</guid>
-      <description>&lt;div class=&#34;row&#34;&gt;
-
-    &lt;div class=&#34;col s12&#34;&gt;
-
-        &lt;ul class=&#34;tabs&#34;&gt;
-            &lt;li class=&#34;tab col s3&#34;&gt;&lt;a class=&#34;active&#34; href=&#34;#info&#34;&gt;Info&lt;/a&gt;&lt;/li&gt;
-            &lt;li class=&#34;tab col s3&#34;&gt;&lt;a href=&#34;#story&#34;&gt;The Story&lt;/a&gt;&lt;/li&gt;
-            &lt;li class=&#34;tab col s3&#34;&gt;&lt;a href=&#34;#download&#34;&gt;Download&lt;/a&gt;&lt;/li&gt;
-            &lt;li class=&#34;tab col s3&#34;&gt;&lt;a href=&#34;#credits&#34;&gt;Credits&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-
-        &lt;br&gt;&lt;br&gt;
-
-        &lt;div class=&#34;col s12&#34; id=&#34;info&#34;&gt;
-
-            Max Massacre is my third personal game project.
-
-            Max Massacre is a short, free Kinetic Novel set in a ficticious, RPG-like fantasy world.
-
-        &lt;/div&gt;
-        &lt;div class=&#34;col s12&#34; id=&#34;story&#34;&gt;
-
-            ...
-
-        &lt;/div&gt;
-        &lt;div class=&#34;col s12&#34; id=&#34;download&#34;&gt;
-
-            Unreleased.
-
-        &lt;/div&gt;
-        &lt;div class=&#34;col s12&#34; id=&#34;credits&#34;&gt;
-
-            ...
-
-        &lt;/div&gt;
-        &lt;br&gt;&lt;br&gt;
-
-    &lt;/div&gt;
-
-&lt;p&gt;&lt;/div&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Wander No More</title>
-      <link>http://replace-this-with-your-hugo-site.com/mygame/wander-no-more/</link>
-      <pubDate>Wed, 07 Sep 2016 11:22:55 +1000</pubDate>
-      
-      <guid>http://replace-this-with-your-hugo-site.com/mygame/wander-no-more/</guid>
-      <description>&lt;div class=&#34;row&#34;&gt;
-
-    &lt;div class=&#34;col s12&#34;&gt;
-
-        &lt;ul class=&#34;tabs&#34;&gt;
-            &lt;li class=&#34;tab col s3&#34;&gt;&lt;a class=&#34;active&#34; href=&#34;#info&#34;&gt;Info&lt;/a&gt;&lt;/li&gt;
-            &lt;li class=&#34;tab col s3&#34;&gt;&lt;a href=&#34;#story&#34;&gt;The Story&lt;/a&gt;&lt;/li&gt;
-            &lt;li class=&#34;tab col s3&#34;&gt;&lt;a href=&#34;#download&#34;&gt;Download&lt;/a&gt;&lt;/li&gt;
-            &lt;li class=&#34;tab col s3&#34;&gt;&lt;a href=&#34;#credits&#34;&gt;Credits&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-
-        &lt;br&gt;&lt;br&gt;
-
-        &lt;div class=&#34;col s12&#34; id=&#34;info&#34;&gt;
-
-            Wander No More is my second personal game project.
-
-            Wander No More is a short, free Kinetic Novel set on an &#34;alternate Earth&#34;, and takes place in a land resembling feudal Japan.
-
-        &lt;/div&gt;
-        &lt;div class=&#34;col s12&#34; id=&#34;story&#34;&gt;
-
-            When Kouichirou Nabatame finally worked up the courage to desert his kingdom, he thought his days of bloodshed were behind him. He believed that if he ran far enough, and for long enough, he could leave it all behind. A normal life would finally be his, and he would be able to spend his days peacefully, helping others and protecting their happiness, rather than destroying them without mercy.
-
-            But as Kouichirou knew deep inside his heart, peace would not be his so easily.
-
-            After weeks on the run, Kouichirou passed through Hotsu Village, and the moment he did, he spelled its demise. The Kodokushi, an elite band of samurai he used to lead, slaughtered the village&#39;s residents, then set it ablaze and continued their search.
-
-            Powerless to stop them, Kouichirou emerged after his former subordinates moved on, desperate to put out the flames and find himself food and shelter. He moved from house to house, searching for anything edible, until he at last stumbled upon a storeroom, in which he found... a girl.
-
-            Orphaned, maimed, and robbed of her village, the girl would undoubtedly die a slow, painful death. Kouichirou knew this, and thus asked the girl a simple question.
-
-            “Do you want to live?”
-
-            But as he prepared to put the girl out of her misery, a fire lit in her eyes. Before she could vocalize her response, the girl, Chiyo, had already conveyed her answer.
-
-            “Then as the one responsible for all of this, it is my duty to make sure that happens. My name is Kouichirou Nabatame, and from this day onward, Chiyo, you are my daughter.&#34;
-
-        &lt;/div&gt;
-        &lt;div class=&#34;col s12&#34; id=&#34;download&#34;&gt;
-
-            Download from Steam:
-
-            Download from Itch:
-
-        &lt;/div&gt;
-        &lt;div class=&#34;col s12&#34; id=&#34;credits&#34;&gt;
-
-            ...
-
-        &lt;/div&gt;
-        &lt;br&gt;&lt;br&gt;
-
-    &lt;/div&gt;
-
-&lt;p&gt;&lt;/div&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sickness</title>
-      <link>http://replace-this-with-your-hugo-site.com/mygame/sickness/</link>
-      <pubDate>Wed, 07 Sep 2016 11:22:47 +1000</pubDate>
-      
-      <guid>http://replace-this-with-your-hugo-site.com/mygame/sickness/</guid>
-      <description>&lt;div class=&#34;row&#34;&gt;
-
-    &lt;div class=&#34;col s12&#34;&gt;
-
-        &lt;ul class=&#34;tabs&#34;&gt;
-            &lt;li class=&#34;tab col s3&#34;&gt;&lt;a class=&#34;active&#34; href=&#34;#info&#34;&gt;Info&lt;/a&gt;&lt;/li&gt;
-            &lt;li class=&#34;tab col s3&#34;&gt;&lt;a href=&#34;#story&#34;&gt;The Story&lt;/a&gt;&lt;/li&gt;
-            &lt;li class=&#34;tab col s3&#34;&gt;&lt;a href=&#34;#download&#34;&gt;Download&lt;/a&gt;&lt;/li&gt;
-            &lt;li class=&#34;tab col s3&#34;&gt;&lt;a href=&#34;#credits&#34;&gt;Credits&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-
-        &lt;br&gt;&lt;br&gt;
-
-        &lt;div class=&#34;col s12&#34; id=&#34;info&#34;&gt;
-
-            Sickness is my first personal game project.
-
-            Sickness is a Visual Novel which takes place in modern society, focusing on the criminal underworld of a town called Richmond.
-
-        &lt;/div&gt;
-        &lt;div class=&#34;col s12&#34; id=&#34;story&#34;&gt;
-
-            ...
-
-        &lt;/div&gt;
-        &lt;div class=&#34;col s12&#34; id=&#34;download&#34;&gt;
-
-            Download from Steam:
-
-            Download from Itch: 
-
-        &lt;/div&gt;
-        &lt;div class=&#34;col s12&#34; id=&#34;credits&#34;&gt;
-
-            ...
-
-        &lt;/div&gt;
-        &lt;br&gt;&lt;br&gt;
-
-    &lt;/div&gt;
-
-&lt;p&gt;&lt;/div&gt;&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Wed, 07 Sep 2016 11:22:38 +1000</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/comgame/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Catch Canvas</title>
@@ -403,25 +238,6 @@
     &lt;/div&gt;
 
 &lt;p&gt;&lt;/div&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>auto nandroid backup</title>
-      <link>http://replace-this-with-your-hugo-site.com/notes/auto-nandroid-backup/</link>
-      <pubDate>Tue, 06 Sep 2016 22:15:19 +1000</pubDate>
-      
-      <guid>http://replace-this-with-your-hugo-site.com/notes/auto-nandroid-backup/</guid>
-      <description>&lt;p&gt;How to automate nandroid backups with TWRP and Tasker on a rooted Android device.&lt;/p&gt;
-
-&lt;p&gt;This guide assumes you have a rooted Android device with TWRP recovery flashed and Tasker installed.
-Also note that this won&amp;rsquo;t work as intended with encrypted devices.&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Open Tasker and create a new task&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Optional - Move backup to PC with cron task&lt;/p&gt;
 </description>
     </item>
     
