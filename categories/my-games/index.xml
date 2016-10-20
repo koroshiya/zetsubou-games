@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Games on Zetsubou&#39;s development blog</title>
-    <link>http://zetsubou.games/categories/my-games/</link>
+    <link>https://zetsubou.games/categories/my-games/</link>
     <description>Recent content in My Games on Zetsubou&#39;s development blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Sep 2016 11:23:03 +1000</lastBuildDate>
-    <atom:link href="http://zetsubou.games/categories/my-games/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zetsubou.games/categories/my-games/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Max Massacre</title>
-      <link>http://zetsubou.games/mygame/max-massacre/</link>
+      <link>https://zetsubou.games/mygame/max-massacre/</link>
       <pubDate>Wed, 07 Sep 2016 11:23:03 +1000</pubDate>
       
-      <guid>http://zetsubou.games/mygame/max-massacre/</guid>
+      <guid>https://zetsubou.games/mygame/max-massacre/</guid>
       <description>&lt;!-- story = &#34;...&#34;
 download = &#34;Unreleased.&#34;
 credits = &#34;...&#34; --&gt;
@@ -23,19 +23,19 @@ credits = &#34;...&#34; --&gt;
     
     <item>
       <title>Wander No More</title>
-      <link>http://zetsubou.games/mygame/wander-no-more/</link>
+      <link>https://zetsubou.games/mygame/wander-no-more/</link>
       <pubDate>Wed, 07 Sep 2016 11:22:55 +1000</pubDate>
       
-      <guid>http://zetsubou.games/mygame/wander-no-more/</guid>
+      <guid>https://zetsubou.games/mygame/wander-no-more/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sickness</title>
-      <link>http://zetsubou.games/mygame/sickness/</link>
+      <link>https://zetsubou.games/mygame/sickness/</link>
       <pubDate>Wed, 07 Sep 2016 11:22:47 +1000</pubDate>
       
-      <guid>http://zetsubou.games/mygame/sickness/</guid>
+      <guid>https://zetsubou.games/mygame/sickness/</guid>
       <description></description>
     </item>
     
