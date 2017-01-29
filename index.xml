@@ -57,10 +57,7 @@ credits = &#34;...&#34; --&gt;
       <pubDate>Wed, 07 Sep 2016 11:23:03 +1000</pubDate>
       
       <guid>https://zetsubou.games/mygame/max-massacre/</guid>
-      <description>&lt;!-- story = &#34;...&#34;
-download = &#34;Unreleased.&#34;
-credits = &#34;...&#34; --&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -78,40 +75,7 @@ credits = &#34;...&#34; --&gt;
       <pubDate>Wed, 07 Sep 2016 11:22:47 +1000</pubDate>
       
       <guid>https://zetsubou.games/mygame/sickness/</guid>
-      <description>&lt;!--
-
-TODO: screenshots section - Use lightbox?
-
-
-credits = [
-    [&#39;Writer/Programmer/Creator/etc&#39;, &#39;Zetsubou&#39;, &#39;https://zetsubou.games/&#39;],
-    [&#39;Producer&#39;, &#39;Kyle Tyner - Unwonted Studios&#39;, &#39;http://unwontedstudios.com/&#39;],
-    [&#39;Backgrounds&#39;, &#39;Jake Bowkett&#39;, &#39;http://www.jakebowkett.com/&#39;],
-    [&#39;Backgrounds&#39;, &#39;Sendo&#39;, &#39;http://sendraw.deviantart.com&#39;],
-    [&#39;Backgrounds&#39;, &#39;Tomasz Madej&#39;, &#39;&#39;],
-    [&#39;Backgrounds&#39;, &#39;Valeria Taranukha&#39;, &#39;&#39;],
-    [&#39;Backgrounds&#39;, &#39;Rachel/Richard Marks&#39;, &#39;&#39;],
-    [&#39;Backgrounds&#39;, &#39;AimlessArt&#39;, &#39;&#39;],
-    [&#39;Backgrounds&#39;, &#39;Rooderoo&#39;, &#39;&#39;],
-    [&#39;Sprites&#39;, &#39;Ezri&#39;, &#39;http://www.ezriart.com/&#39;],
-    [&#39;Sprites&#39;, &#39;Monika M.&#39;, &#39;http://psyalera.deviantart.com/&#39;],
-    [&#39;CGs&#39;, &#39;Flora&#39;, &#39;http://floradrawz.com&#39;],
-    [&#39;CGs&#39;, &#39;Chocojax&#39;, &#39;http://art.jphi.me/&#39;],
-    [&#39;GUI Artwork&#39;, &#39;Kingv&#39;, &#39;http://kingv.deviantart.com/&#39;],
-    [&#39;Item Sprites&#39;, &#39;David Fuentes&#39;, &#39;https://www.behance.net/DaveyDsign&#39;],
-    [&#39;Music&#39;, &#39;Cylight Studios&#39;, &#39;&#39;],
-    [&#39;Music&#39;, &#39;Mock Off&#39;, &#39;&#39;],
-    [&#39;Music&#39;, &#39;Noyemi K.&#39;, &#39;&#39;],
-    [&#39;Music&#39;, &#39;Lemmonias&#39;, &#39;&#39;],
-    [&#39;Music&#39;, &#39;Alcaknight&#39;, &#39;https://soundcloud.com/alcaknight/&#39;],
-    [&#39;Music&#39;, &#39;Kumiho&#39;, &#39;https://soundcloud.com/kumiho-242898106/&#39;],
-    [&#39;Fonts&#39;, &#39;&#34;October Crow&#34; by Chad Savage&#39;, &#39;http://www.sinisterfonts.com&#39;],
-    [&#39;Fonts&#39;, &#39;&#34;Robotica&#34; by Courtney Novits&#39;, &#39;http://www.courtneynovits.com/&#39;],
-    [&#39;Fonts&#39;, &#39;&#34;1942&#34; by Johan Holmdahl&#39;, &#39;&#39;]
-]
-
---&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
