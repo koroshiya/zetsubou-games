@@ -1,75 +1,116 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://zetsubou.games/</loc>
-    <lastmod>2017-02-21T11:22:38+10:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://zetsubou.games/comgame/happy-campers/</loc>
+    <loc>https://zetsubou.games/post/happy-campers/</loc>
     <lastmod>2017-02-21T11:22:38+10:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zetsubou.games/mygame/tomboys-need-love-too/</loc>
+    <loc>https://zetsubou.games/post/tomboys-need-love-too/</loc>
     <lastmod>2016-11-20T13:55:33+11:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zetsubou.games/mygame/humanity-must-perish/</loc>
+    <loc>https://zetsubou.games/post/humanity-must-perish/</loc>
     <lastmod>2016-11-20T12:43:03+10:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zetsubou.games/comgame/to-libertad/</loc>
+    <loc>https://zetsubou.games/post/to-libertad/</loc>
     <lastmod>2016-11-05T08:25:32+10:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zetsubou.games/comgame/love-ribbon/</loc>
+    <loc>https://zetsubou.games/post/love-ribbon/</loc>
     <lastmod>2016-10-08T20:39:00+10:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zetsubou.games/mygame/max-massacre/</loc>
+    <loc>https://zetsubou.games/post/max-massacre/</loc>
     <lastmod>2016-09-07T11:23:03+10:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zetsubou.games/mygame/wander-no-more/</loc>
+    <loc>https://zetsubou.games/post/wander-no-more/</loc>
     <lastmod>2016-09-07T11:22:55+10:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zetsubou.games/mygame/sickness/</loc>
+    <loc>https://zetsubou.games/post/sickness/</loc>
     <lastmod>2016-09-07T11:22:47+10:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zetsubou.games/comgame/catch-canvas/</loc>
+    <loc>https://zetsubou.games/post/catch-canvas/</loc>
     <lastmod>2016-09-07T11:22:38+10:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zetsubou.games/comgame/diamond-rose/</loc>
+    <loc>https://zetsubou.games/post/diamond-rose/</loc>
     <lastmod>2016-09-07T11:22:32+10:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zetsubou.games/comgame/no-one-but-you/</loc>
+    <loc>https://zetsubou.games/post/no-one-but-you/</loc>
     <lastmod>2016-09-07T11:22:25+10:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zetsubou.games/comgame/written-in-the-sky/</loc>
+    <loc>https://zetsubou.games/post/written-in-the-sky/</loc>
     <lastmod>2016-09-07T11:22:17+10:00</lastmod>
   </url>
   
   <url>
     <loc>https://zetsubou.games/notes/18&#43;-content-patch/</loc>
     <lastmod>2015-03-05T09:44:38+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zetsubou.games/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zetsubou.games/categories/commissioned-games/</loc>
+    <lastmod>2017-02-21T11:22:38+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zetsubou.games/categories/miscellaneous/</loc>
+    <lastmod>2015-03-05T09:44:38+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zetsubou.games/categories/my-games/</loc>
+    <lastmod>2016-11-20T13:55:33+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zetsubou.games/notes/</loc>
+    <lastmod>2015-03-05T09:44:38+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zetsubou.games/post/</loc>
+    <lastmod>2017-02-21T11:22:38+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zetsubou.games/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zetsubou.games/</loc>
+    <lastmod>2017-02-21T11:22:38+10:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

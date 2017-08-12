@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Zetsubou&#39;s development blog</title>
+    <link>https://zetsubou.games/categories/</link>
+    <description>Recent content in Categories on Zetsubou&#39;s development blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://zetsubou.games/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Commissioned Games</title>
+      <link>https://zetsubou.games/categories/commissioned-games/</link>
+      <pubDate>Tue, 21 Feb 2017 11:22:38 +1000</pubDate>
+      
+      <guid>https://zetsubou.games/categories/commissioned-games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miscellaneous</title>
+      <link>https://zetsubou.games/categories/miscellaneous/</link>
+      <pubDate>Thu, 05 Mar 2015 09:44:38 +1000</pubDate>
+      
+      <guid>https://zetsubou.games/categories/miscellaneous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My Games</title>
+      <link>https://zetsubou.games/categories/my-games/</link>
+      <pubDate>Sun, 20 Nov 2016 13:55:33 +1100</pubDate>
+      
+      <guid>https://zetsubou.games/categories/my-games/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
