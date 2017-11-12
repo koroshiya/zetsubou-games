@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://zetsubou.games/post/sables-grimoire/</loc>
+    <lastmod>2017-11-12T13:55:33+11:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://zetsubou.games/post/happy-campers/</loc>
     <lastmod>2017-02-21T11:22:38+10:00</lastmod>
   </url>
@@ -86,7 +91,7 @@
   
   <url>
     <loc>https://zetsubou.games/categories/my-games/</loc>
-    <lastmod>2016-11-20T13:55:33+11:00</lastmod>
+    <lastmod>2017-11-12T13:55:33+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -98,7 +103,7 @@
   
   <url>
     <loc>https://zetsubou.games/post/</loc>
-    <lastmod>2017-02-21T11:22:38+10:00</lastmod>
+    <lastmod>2017-11-12T13:55:33+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -109,7 +114,7 @@
   
   <url>
     <loc>https://zetsubou.games/</loc>
-    <lastmod>2017-02-21T11:22:38+10:00</lastmod>
+    <lastmod>2017-11-12T13:55:33+11:00</lastmod>
     <priority>0</priority>
   </url>
   
